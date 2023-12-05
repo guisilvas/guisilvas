@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guilherme Soares Silva</h1>
+<h1 align="center">Hi 👋, I'm Guilherme Silva</h1>
 <h3 align="center">A developer passionate about Physics</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif">
 
