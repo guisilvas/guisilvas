@@ -4,14 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guisilvas&label=Profile%20views&color=0e75b6&style=flat" alt="guisilvas" /> </p>
 
-:computer:
-- :notebook: I’m looking to collaborate on **Quantum Computing**
+- I’m looking to collaborate on **Quantum Computing**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/guisilvas/](https://www.linkedin.com/in/guisilvas/)
+- I regularly write articles on [https://www.linkedin.com/in/guisilvas/](https://www.linkedin.com/in/guisilvas/)
 
-- 📫 Reach me on **guilhermesoaressilvadev@gmail.com**
+- Reach me on **guilhermesoaressilvadev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/guisilvas/](https://www.linkedin.com/in/guisilvas/)
+- Know about my experiences [https://www.linkedin.com/in/guisilvas/](https://www.linkedin.com/in/guisilvas/)
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
