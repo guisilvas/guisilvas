@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guisilvas&label=Profile%20views&color=0e75b6&style=flat" alt="guisilvas" /> </p>
 
-
-- 🚀 I’m looking to collaborate on **Quantum Computing**
+:computer:
+- :notebook: I’m looking to collaborate on **Quantum Computing**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/guisilvas/](https://www.linkedin.com/in/guisilvas/)
 
