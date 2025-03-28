@@ -8,11 +8,22 @@
 <br>
 
 <!-- Gif -->
-<center><img align="center" width="400" src="https://media4.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif"></center>
+<center><img align="right" width="400" src="https://media4.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif"></center>
+
+<br>
+<br>
+<br>
 
 <!-- Subtitle -->
-<h3 align="center">0/0</h3>
+<h3 align="center">0÷0=</h3>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <!-- Statistics -->
