@@ -15,7 +15,7 @@
 <br>
 
 <!-- Subtitle -->
-<h3 align="center">0÷0=</h3>
+<h3 align="center"><p>0 ÷ 0 =</p></h3>
 
 <br>
 <br>
