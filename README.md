@@ -5,18 +5,11 @@
 <h1 align="center">Guilherme Soares Silva</h1>
 
 <!-- Gif -->
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif">
-
-<br>
-<br>
+<center><img align="center" width="400" src="https://media4.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif"></center>
 
 <!-- Subtitle -->
-<h2 align="center">Learning something about Science</h2>
+<h2 align="left">Learning something about Science</h2>
 
-<br>
-<br>
-<br>
-<br>
 <br>
 
 - I’m looking to collaborate on **Quantum Computing**
@@ -26,9 +19,8 @@
 - Know about my experiences [https://www.linkedin.com/in/guisilvas/](https://www.linkedin.com/in/guisilvas/)
 
 <br>
-<br>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <br>
