@@ -26,19 +26,35 @@
 <br>
 <br>
 
+<!-- Programming Language Section -->
+<h3 align="left">Programming Languages</h3>
+<p align="left">
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
+
+<br>
+
 <!-- Statistics -->
 <h3 align="left">Statistics</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guisilvas&" alt="guisilvas" /></p>
 
 <br>
 
-<!-- Programming Language Section -->
-<h3 align="left">Programming Languages</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<br>
-
 <!-- Contact -->
 <h3 align="left">Contact</h3>
-<a href="mailto:guilhermesoaressilvadev@gmail.com"><img src="images/Gmail.png" alt="Gmail" style="width:40px; margin-top: 8px;" align="center"></a>
+
+<a href="mailto:guilhermesoaressilvadev@gmail.com"><img src="https://storage.googleapis.com/gweb-workspace-assets/uploads/7uffzv9dk4sn-2ANudyZddMUfBdOX8YWDbe-8da52413e8fe627a74e653f02de3e001-Gmail.svg" alt="Gmail" style="width:40px; margin-top: 8px;" align="center"></a>
+
+<!--
 <a href="https://www.linkedin.com/in/guisilvas/"><img src="images/linkedin_icon.png" alt="Linkedin" style="width:40px; margin-left: 10px;" align="center"></a>
+-->
+
+<br>
+<br>
+
+Views since 01/04/2025
+
+<a href="https://plato.stanford.edu/entries/goedel-incompleteness/"> 
+<img src="https://profile-counter.glitch.me/guisilvas/count.svg" alt="0vm" />
+</a>
