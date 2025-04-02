@@ -2,8 +2,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guisilvas&label=Profile%20views&color=0e75b6&style=flat" alt="guisilvas" /> </p>
 
 <!-- Title -->
-<h1 align="center">Guilherme Soares Silva</h1>
+<p> Looks this: </p>
+<img align="right" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBnbW1zcWw5NW85ZnI3amFqN2l4ZnFiYjN2YWZicTFhNmdiYnlqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6wlrY2ABvHxDi/giphy.gif">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -58,3 +69,9 @@ Views since 01/04/2025
 <a href="https://plato.stanford.edu/entries/goedel-incompleteness/"> 
 <img src="https://profile-counter.glitch.me/guisilvas/count.svg" alt="0vm" />
 </a>
+
+<br>
+<br>
+
+<!--
+<center><img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFzamo4dHZrNm13ZHBsN3hzN2xzdWtjNWEwcjM2ejhrZnloZXNoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qUjDf9PZlHZ6/giphy.gif"></center> -->
