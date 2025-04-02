@@ -1,5 +1,5 @@
-<!-- View count -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guisilvas&label=Profile%20views&color=0e75b6&style=flat" alt="guisilvas" /> </p>
+<!-- Stack Overflow -->
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26951169/guideverdade)
 
 <!-- Title -->
 <h1> Math beauty: </h1>
@@ -11,7 +11,7 @@
 <!-- Programming Language Section -->
 <h3 align="left">Programming Languages</h3>
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="40" height="40"/> </a> <a href="https://eecs390.github.io/notes/theory.html" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/DgPx3c7rRREGfupu1uXUv8uBj2epcTlooplXFpSi1Tw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvZ3JlZWstYWxw/aGFiZXQtc3ltYm9s/LWxhbWJkYV84NzUy/NDAtNTM4LmpwZz9z/ZW10PWFpc19oeWJy/aWQ" alt="Lambda Calculus" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="40" height="40"/> </a> <a href="https://eecs390.github.io/notes/theory.html" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/DgPx3c7rRREGfupu1uXUv8uBj2epcTlooplXFpSi1Tw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvZ3JlZWstYWxw/aGFiZXQtc3ltYm9s/LWxhbWJkYV84NzUy/NDAtNTM4LmpwZz9z/ZW10PWFpc19oeWJy/aWQ" alt="Lambda Calculus" width="40" height="40"/> </a>
 </p>
 
 <br>
@@ -34,14 +34,18 @@
 <br>
 <br>
 
+<!-- View count -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guisilvas&label=Profile%20views&color=0e75b6&style=flat" alt="View Count" /> </p>
+
+<br>
+<br>
+
+<!-- View Counter (since 01/04/2025) -->
 Views since 01/04/2025
 
 <a href="https://plato.stanford.edu/entries/goedel-incompleteness/"> 
-<img src="https://profile-counter.glitch.me/guisilvas/count.svg" alt="0vm" />
+<img src="https://profile-counter.glitch.me/guisilvas/count.svg" alt="Counter" />
 </a>
-
-<br>
-<br>
 
 <!--
 <center><img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFzamo4dHZrNm13ZHBsN3hzN2xzdWtjNWEwcjM2ejhrZnloZXNoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qUjDf9PZlHZ6/giphy.gif"></center>
