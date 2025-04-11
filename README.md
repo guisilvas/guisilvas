@@ -1,10 +1,19 @@
 <!-- Stack Overflow -->
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26951169/guideverdade)
 
-<!-- Title -->
-<h1> Math beauty: </h1>
-<img align="center" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBnbW1zcWw5NW85ZnI3amFqN2l4ZnFiYjN2YWZicTFhNmdiYnlqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6wlrY2ABvHxDi/giphy.gif">
+<!-- GIF -->
+<img align="center" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa242d2szdXIwbzBvYXdpc2t4bzNzamxlYXAycHpxbzN1MHoxb3F5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJx9IF20uGvF6/giphy.gif">
 
+<!--
+<h1> Test </h1>
+<img align="center" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY2ZGVnMXNxbTZ6OTRncnh2Z2FwN2d4eTBvN2h5ZHptMTdvZW0weCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G7Pc0fNwuVzYk/giphy.gif">
+
+<h1> Test </h1>
+<img align="center" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejIyYTdicWIzOWxhOHVpOWw1ZmJqZHg0c3A0Y29yYXd5ajI3ZTI3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iTPQuX1ipdrNe/giphy.gif">
+
+<h1> Math beauty </h1>
+<img align="center" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBnbW1zcWw5NW85ZnI3amFqN2l4ZnFiYjN2YWZicTFhNmdiYnlqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6wlrY2ABvHxDi/giphy.gif">
+-->
 <br>
 <br>
 
