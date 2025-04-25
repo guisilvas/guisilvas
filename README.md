@@ -64,7 +64,9 @@
 <h3 align="left">Statistics</h3>
 <div align="center">
   <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guisilvas&theme=transparent&bg_color=FFF&border_color=FFA500&show_icons=true&icon_color=FFA500&title_color=000&text_color=000"/> -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guisilvas&" alt="guisilvas" />
+ <a target="_blank" href="https://plato.stanford.edu/entries/goedel-incompleteness/">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guisilvas&" alt="guisilvas" />
+ </a>
 </div>
 
 <!--
