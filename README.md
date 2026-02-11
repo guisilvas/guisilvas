@@ -7,9 +7,15 @@
 
 <br>
 
-<!-- GIF -->
-<a href="https://www.khanacademy.org/science/physical-chemistry-essentials/x98cdf762ed888601:structure-of-atom/x98cdf762ed888601:quantum-mechanical-model-of-hydrogen-atom/a/the-quantum-mechanical-model-of-the-atom" target="_blank">
-<img align="center" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa242d2szdXIwbzBvYXdpc2t4bzNzamxlYXAycHpxbzN1MHoxb3F5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJx9IF20uGvF6/giphy.gif">
+<!-- GIF --> 
+<!-- 
+<a href="https://www.khanacademy.org/science/physical-chemistry-essentials/x98cdf762ed888601:structure-of-atom/x98cdf762ed888601:quantum-mechanical-model-of-hydrogen-atom/a/the-quantum-mechanical-model-of-the-atom" target="_blank"> 
+<img align="center" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa242d2szdXIwbzBvYXdpc2t4bzNzamxlYXAycHpxbzN1MHoxb3F5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJx9IF20uGvF6/giphy.gif"> 
+</a> 
+--> 
+ 
+<a href="https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/four_dimensions/index.html" target="_blank"> 
+<img align="center" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJoYW5vb3psaHJib25obDltMXg3ZzBhbzNsMjQydnFkeTk5emtvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE8OqOlUhffQfxm/giphy.gif"> 
 </a>
 
 <!--
