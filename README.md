@@ -14,8 +14,8 @@
 </a> 
 --> 
  
-<a href="https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/four_dimensions/index.html" target="_blank"> 
-<img align="center" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJoYW5vb3psaHJib25obDltMXg3ZzBhbzNsMjQydnFkeTk5emtvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE8OqOlUhffQfxm/giphy.gif"> 
+<a href="https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/four_dimensions/index.html" target="_blank">
+  <img align="center" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJoYW5vb3psaHJib25obDltMXg3ZzBhbzNsMjQydnFkeTk5emtvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE8OqOlUhffQfxm/giphy.gif">
 </a>
 
 <!--
@@ -63,7 +63,7 @@
 <!-- Contact -->
 <h3 align="left">Contact</h3>
 
-<a target="_blank" href="mailto:guilhermesoaressilvadev@gmail.com">
+<a target="_blank" href="mailto:guilhermesoaressilva@ufmg.br">
   <img src="https://storage.googleapis.com/gweb-workspace-assets/uploads/7uffzv9dk4sn-2ANudyZddMUfBdOX8YWDbe-8da52413e8fe627a74e653f02de3e001-Gmail.svg" alt="Gmail" style="width:40px; margin-top: 8px;" align="center">
 </a>
 
