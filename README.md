@@ -37,7 +37,7 @@
 
 <!-- Programming Language Section -->
 <h3 align="left">Programming Languages</h3>
-<div align="left" display=inherite>
+<div display=inherite>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
