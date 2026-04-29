@@ -33,13 +33,13 @@
 
 <!-- Programming Language Section -->
 <h3 align="left">Programming Languages</h3>
-<div>
+<a align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
@@ -55,7 +55,7 @@
   <a href="https://eecs390.github.io/notes/theory.html" target="_blank" rel="noreferrer">
     <img src="https://imgs.search.brave.com/DgPx3c7rRREGfupu1uXUv8uBj2epcTlooplXFpSi1Tw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvZ3JlZWstYWxw/aGFiZXQtc3ltYm9s/LWxhbWJkYV84NzUy/NDAtNTM4LmpwZz9z/ZW10PWFpc19oeWJy/aWQ" alt="Lambda Calculus" width="40" height="40"/>
   </a>
-</div>
+</a>
 
 <br>
 
